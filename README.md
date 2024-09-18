@@ -2,11 +2,11 @@
 
 ## learned subjects:
 
-1) continue: in loops:
-    1. same as break, but only to exit the current iteration and continue stay in the loop.
-2) how to find the maximum and minimum numbers-basic.
-3) None-type: The None keyword is used to define a **null** value, or no value at all.
-
+1) continue keyword in loops:
+    * same as break, but only to exit the current iteration and continue stay in the loop.
+2) basic algorithm of the maximum and minimum numbers.
+3) None-type: 
+    * The None keyword is used to define a **null** value, or no value at all.
     * None is **not**  the same as 0, False, or an empty string. None is a data type of its own (NoneType) and only None
       can be None.
     * shortcut conditions:
@@ -18,7 +18,7 @@
         ```
     * instead max_num==0 you can write: max_n is None
 
-### Etra:
+### Extra:
 
 * colors in console- build-in:
     * colors of tables references:
