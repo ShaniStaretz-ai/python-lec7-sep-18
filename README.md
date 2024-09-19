@@ -30,5 +30,6 @@
    ```
    print("\033[1;92mBINGO\033[0m")  ## in BOLD with intensity in color green
    print(f"you guessed the number in \033[1;33m{tries}\033[0m tries") ## on the value of {tries} in yellow color
-   ```
+    print(f"\033[4;31mStatistical results:\033[0m") #text and underline in red
+  ```
   ![img.png](img.png)
